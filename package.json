@@ -1,0 +1,16 @@
+{
+  "name": "imageupload",
+  "version": "1.0.0",
+  "description": "uploading image",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "georgenabil",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.5.7",
+    "express": "^4.16.2",
+    "multer": "^1.3.0"
+  }
+}
